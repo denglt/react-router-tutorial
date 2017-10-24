@@ -19,6 +19,7 @@ export default React.createClass({
           <li><NavLink to="/about">About</NavLink></li>
           <li><NavLink to="/repos">Repos</NavLink></li>
         </ul>
+        {React.Children.count(this.props.children)}
         {this.props.children}
       </div>
     )

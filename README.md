@@ -15,3 +15,8 @@ Missing stuff that will come eventually, hopefully ... maybe.
 - code splitting
 - location state
 - data integration
+
+
+附：
+* [react-router 中文文档](http://react-guide.github.io/react-router-cn/docs/Introduction.html)
+* [阮一峰 React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)
